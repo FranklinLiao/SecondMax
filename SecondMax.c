@@ -23,6 +23,6 @@ int main(int argc, char *argv[])
 	int secondMax = findSecond(a,5);
 	printf("secondMax : %d",secondMax);
 	getchar();
-	printf("this is a add")
+	//printf("this is a add")
 	return 0;
 }
